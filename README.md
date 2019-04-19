@@ -1,7 +1,6 @@
 Title of the Project: 
 			HELLO MEDICA: BMR & BMI calculator… 
 
-
 Team members:
 •	Md Arifur Hoque
 (arifurhoque01@gmail.com) 
@@ -11,6 +10,7 @@ Team members:
 
 
 Problem Statement: 
+			
 			Basically here we have worked with two types of Problem. 
 •	BMR( Besal Meabolic Rate) Problem.. 
 •	BMI( Besal Metabolic index) Problem.. 
@@ -35,7 +35,7 @@ Technologies or Languages used:
 
 Instructions to run the project:
 
-				1st ly there is a log in page.. It will show you three option.. Sign in with google, Sign in with email , sign in with phone-number. User can take any choice. 
+			1st ly there is a log in page.. It will show you three option.. Sign in with google, Sign in with email , sign in with phone-number. User can take any choice. 
 	If he/she will go for the e mail address then they has to fill up  some text field with valid name password.. These things will be stored in firebase database and authentication will be done. If everything will be valid then it will redirect the user to the next page. 
 	Similarly if we will log in with phone number then we need to write the valid country code as well as the valid phone number. It will send a 6 digit otp to the user. If its correct then it will redirect the user to the next page.
 
